@@ -1,4 +1,4 @@
-# Inout display the 2 values
+# Input display the 2 values
 
 Width = float(input ("Enter the width of the rectangle:"))
 
