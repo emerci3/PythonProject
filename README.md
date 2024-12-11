@@ -1,1 +1,1 @@
-This repository contains various assignments that displays understanding of python fundamentals.
+This repository contains various assignments that displays understanding of Python fundamentals.
